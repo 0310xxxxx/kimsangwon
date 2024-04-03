@@ -18,7 +18,7 @@
 ## :pushpin: Projects
 ### 1. [팀 프로젝트](https://github.com/2024-SMHRD-KDT-BigData-23/BooksProject)
 >나의 백앤드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>개발 기간: 2024.3.18 ~ 2024.4.02  
 >  
 >기술 스택:  
 >JSP / MySQL / HTML/CSS / JS   
