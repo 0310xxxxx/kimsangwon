@@ -1,19 +1,17 @@
-# kimsangwon
-# 안녕하세요. 김상원입니다.
 # 김상원의 포트폴리오
 >캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-2
+묵묵히 하는 소나무
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+안녕하세요. 김상원이라고 합니다. 주로 프론트엔드 개발을 하고있습니다.
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
-- 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 이메일: siosa5623@naver.com
+- 블로그: https://blog.naver.com/siosa5623
+- 깃헙 : https://github.com/eric5621
 
 </br>
 
