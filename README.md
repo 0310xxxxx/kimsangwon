@@ -14,6 +14,7 @@
 ### 1. [첫 번째 프로젝트]
 > 고양이 , 강아지 키우기 게임  (첫번째 미니 프로젝트)  
 >개발 기간: 2024.1.18 ~ 2024.1.25
+> 
 >기술 스택:  
 >Java / MySQL  
 >[프로젝트 상세 설명](https://github.com/YeonjaeMan/miniproject/blob/main/README.md) 참고
