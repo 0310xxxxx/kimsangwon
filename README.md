@@ -14,6 +14,7 @@
 ### 1. [첫 번째 프로젝트]
 > 고양이 , 강아지 키우기 게임  (첫번째 미니 프로젝트)  
 >개발 기간: 2024.1.18 ~ 2024.1.25
+> 
 >기술 스택: Java / MySQL  
 >[프로젝트 상세 설명](https://github.com/YeonjaeMan/miniproject/blob/main/README.md) 참고
 
@@ -31,5 +32,6 @@
 >지역별 채용정보 맵 서비스  (최종 프로젝트)  
 >개발 기간: 2024.5.23 ~ 2024.6.20   
 >기술 스택: REACT / HTML/CSS / chart.js2
+>
 >[프로젝트 상세 설명](https://github.com/2024-SMHRD-KDT-BigData-23/ITrend) 참고
 
