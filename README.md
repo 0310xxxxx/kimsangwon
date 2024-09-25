@@ -32,6 +32,7 @@
 >지역별 채용정보 맵 서비스  (최종 프로젝트)  
 >개발 기간: 2024.5.23 ~ 2024.6.20   
 >기술 스택:  
-> REACT / HTML/CSS / chart.js2 
+> REACT / HTML/CSS / chart.js2
+>
 >[프로젝트 상세 설명](https://github.com/2024-SMHRD-KDT-BigData-23/ITrend) 참고
 
